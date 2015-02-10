@@ -5,7 +5,7 @@ Emmerse allows you to virtually experience various forms of entertainment in
 
 This is done through the Oculus Rift VR D2 headset.
 
-It is a native C++ windows application written with Microsoft Visual C++. An OS
-X port is planned for later.
+The program is written in unity to support Mac OS X and Windows platforms.
 
 The current project goal is to feed a video file to the Oculus display.
+./
