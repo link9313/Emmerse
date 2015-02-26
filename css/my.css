@@ -1,0 +1,176 @@
+
+
+body {
+	font-family: "Arial","Serif";
+	font-size: 115%;
+	width: 95%;				/*formats minimum width*/
+	max-width: 1200px;		/*Formats maximum width*/
+	margin: 15px;			/*Formats margins to 15 pixels*/
+	background-color: white;
+	
+}
+
+/*This modifies the header*/
+
+header {
+	display: block;
+    margin-left: 450px;
+	
+}
+	
+
+	
+/*This modifies the navigation alignment*/
+
+nav {
+	text-align: left;
+	margin-bottom: 15px;
+	margin-left: 100px;
+	float: right;
+	color: 2E64FE;
+}
+
+/*This modifies how the font is expressed*/
+
+nav ul {
+	font-variant: small-caps;
+	list-style-type: none;
+	margin: 20px;
+}
+/*This bolds the navigation font*/
+
+nav ul li {
+	font-weight: bold;
+	display: inline;
+	margin: 0px 10px;
+	
+}
+/*This takes away the underline on links*/
+
+nav ul li a {
+	text-decoration: none;
+	color: black;
+}
+/*This modifies the color and background of links*/
+
+nav ul li a:hover {
+	text-decoration: none;
+	font-weight: bold;
+	color: #2E64FE;
+}
+
+/*Modifies background color*/
+section.information {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #F2F2F2;
+}
+
+/*modifies font style and color for headers*/
+section.information h1 {
+	color: #2E64FE;
+	margin-top: 0px;
+	margin-bottom: 10px;
+}
+
+
+/*modifies background color for tables*/
+section.information th {
+	background-color: #700000;
+}
+
+/*modifies background color to red*/
+section.information td {
+	background-color: #580000;
+}
+
+/*modifies the font for the page footer*/
+footer {
+	text-align: center;
+	color: #2E64FE;
+	font-size: 85%;
+	clear: both;
+	padding-top: 25px; 
+}
+
+/*changes background color*/
+section.information td:hover {
+	background-color: red;
+}
+
+
+#About {
+	width: 60%;
+	float: right;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+
+#How {
+	width: 60%;
+	float: right;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+
+#pics {
+	width: 60%;
+	float: right;
+	padding-bottom: 15px;
+	text-align: left;
+}
+#Process {
+	width: 60%;
+	float: right;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+#Test{
+	width: 60%;
+	float: right;
+	padding-bottom: 15px;
+	text-align: left;
+}
+#Checklist {
+	width: 60%;
+	float: right;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+#Future {
+	width: 60%;
+	float: right;
+	padding-bottom: 15px;
+	text-align: left;
+}
+
+
+label {
+    display: block;
+    padding-left: 15px;
+    text-indent: -15px;
+}
+
+/*image scaling*/
+img {
+    max-width:300px;
+    max-height:295px;
+    width: auto;
+    height: auto;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 55px;
+}
+
+
+footer {
+	text-align: center;
+	margin-left: 450px;
+	color: #2E64FE;
+	}
