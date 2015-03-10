@@ -46,6 +46,7 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Editor\InvertedSphere.cs" />
      <Compile Include="Assets\OVR\Editor\OVRBuild.cs" />
      <Compile Include="Assets\OVR\Editor\OVRGameView.cs" />
      <Compile Include="Assets\OVR\Editor\OVRPrefabs.cs" />
