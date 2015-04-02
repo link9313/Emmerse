@@ -7,4 +7,9 @@ public class LoadScene : MonoBehaviour
 	{
 		Application.LoadLevel(index);
 	}
+
+	public void QuitMenu()
+	{
+		Application.Quit();
+	}
 }
