@@ -7,8 +7,6 @@ Project("{5D6F02F3-9616-8BA3-80B4-8EAB520391C4}") = "Emmerse", "Assembly-CSharp.
 EndProject
 Project("{5D6F02F3-9616-8BA3-80B4-8EAB520391C4}") = "Emmerse", "Assembly-CSharp-Editor.csproj", "{F68A2983-7B2D-5327-6BB5-BD6A6C302FD7}"
 EndProject
-Project("{5D6F02F3-9616-8BA3-80B4-8EAB520391C4}") = "Emmerse", "Assembly-UnityScript-firstpass.unityproj", "{35FFEE8F-D878-46F5-4E10-CB8A7CDB4854}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,15 +25,11 @@ Global
 		{F68A2983-7B2D-5327-6BB5-BD6A6C302FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F68A2983-7B2D-5327-6BB5-BD6A6C302FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F68A2983-7B2D-5327-6BB5-BD6A6C302FD7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{35FFEE8F-D878-46F5-4E10-CB8A7CDB4854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{35FFEE8F-D878-46F5-4E10-CB8A7CDB4854}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{35FFEE8F-D878-46F5-4E10-CB8A7CDB4854}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{35FFEE8F-D878-46F5-4E10-CB8A7CDB4854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																																																																									GlobalSection(MonoDevelopProperties) = preSolution
+																																																																																																																											GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
