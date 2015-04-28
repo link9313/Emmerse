@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/HelloWorld.unity
   - enabled: 0
-    path: Assets/Menu old.unity
+    path: Assets/MenuPic.unity
   - enabled: 0
     path: Assets/Capetown.unity
   - enabled: 0
@@ -18,14 +18,20 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/KualaLampur.unity
   - enabled: 0
-    path: Assets/Menu old 2.unity
+    path: Assets/MenuVid.unity
   - enabled: 0
-    path: Assets/Video1.unity
+    path: Assets/FireVideo.unity
   - enabled: 0
-    path: Assets/Video2.unity
+    path: Assets/SkyVideo.unity
+  - enabled: 0
+    path: Assets/Menu360.unity
   - enabled: 1
     path: Assets/Menu.unity
   - enabled: 1
-    path: Assets/360Video.unity
+    path: Assets/360Car.unity
+  - enabled: 1
+    path: Assets/360Orch.unity
+  - enabled: 1
+    path: Assets/360Volbeat.unity
   - enabled: 1
     path: Assets/WebcamVideo.unity
